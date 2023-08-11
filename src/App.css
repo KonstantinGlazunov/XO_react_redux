@@ -23,13 +23,13 @@ content: '';
 .square {
   background-color: #fff;
   border: 1px solid #ccc;
-  font-style: 24px;
+  font-size: 35px;
   font-weight: bold;
   text-align: center;
   cursor: pointer;
   line-height: 40px;
-  height: 40px;
-  width: 40px;
+  height: 100px;
+  width: 100px;
 }
 
 .square:hover {
